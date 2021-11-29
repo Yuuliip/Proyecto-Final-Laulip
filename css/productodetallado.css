@@ -1,0 +1,55 @@
+body{
+  background-color:#D8C89B;
+}
+.logo img{
+  width: 8%;
+  display: block;
+  margin: auto;
+}
+  h1{
+    text-align: center;
+    font-family: 'Dairy Cattle';
+    font-size: 50px;
+  }
+
+  .container{
+  float:none;
+
+  }
+
+.content{
+
+  width: 10%;
+  border: 0 solid white;
+    float: left;
+  width: 1000px;
+  background: white;
+  margin: auto;
+  margin-top: 1px;
+}
+.content2{
+  text-align: justify;
+
+}
+.content2 p{
+  font-family: 'Aileron';
+}
+.content2 h3{
+  font-family: 'Dairy Cattle';
+}
+.imagen{
+  float: left;
+    border: 2px solid white;
+    margin: auto;
+
+}
+.label{
+  color: #fff;
+  font-size: 40px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.flecha{
+  font-size: 5px;
+  color: #ffffff;
+}
